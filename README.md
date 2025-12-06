@@ -1,8 +1,7 @@
 # 💫 About Me  
 🎯 I am Timonso, a budding developer from Germany, currently learning Java and Kotlin, mainly focused on building Minecraft plugins.
 
-## 🌐 Socials  
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/timonsoe)  
+## 📬 Contact  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:management@timonso.de)
 
 # 💻 Tech Stack  
