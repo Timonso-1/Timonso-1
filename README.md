@@ -13,10 +13,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-# 📊 GitHub Stats  
+# 📊 Stats Stats  
 ![](https://github-readme-stats.vercel.app/api?username=timonso-1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br>  
 ![](https://nirzak-streak-stats.vercel.app/?user=timonso-1&theme=shadow_blue&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=timonso-1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
