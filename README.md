@@ -15,7 +15,7 @@
 
 # 📊 Stats 
 ![Timonso-1's Stats](https://github-readme-stats.vercel.app/api?username=Timonso-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso-1&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
