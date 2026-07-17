@@ -24,6 +24,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsdian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1A1A2E?style=for-the-badge&logo=pterodactyl&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
