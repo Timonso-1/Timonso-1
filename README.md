@@ -29,6 +29,12 @@
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1A1A2E?style=for-the-badge&logo=pterodactyl&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+**AI Tools**
+
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](url-you-want-to-link-to)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 ---
 
 # 📊 Stats
