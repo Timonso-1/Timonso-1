@@ -41,7 +41,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Timonso-1&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Timonso-1&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso&theme=tokyonight&layout=compact&langs_count=10&hide_title=true&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Timonso&layout=compact&langs_count=10&theme=tokyonight)](https://wakatime.com/@Timonso)
 
 ![Streak](https://streak-stats.demolab.com?user=Timonso-1&theme=tokyonight&hide_border=true)
 
