@@ -43,13 +43,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Timonso&layout=compact&langs_count=10&theme=tokyonight)](https://wakatime.com/@Timonso)
 
-![Streak](https://streak-stats.demolab.com?user=Timonso-1&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Timonso-1&theme=tokyo-night&hide_border=true&area=true)
-
 ---
 
 ### ✍️ Random Dev Quote
