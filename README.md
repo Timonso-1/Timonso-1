@@ -5,8 +5,6 @@
 Developer from Germany, building Minecraft plugins for Paper and Velocity.
 
 [![Email](https://img.shields.io/badge/management@timonso.de-09090B?style=flat-square&logo=gmail&logoColor=white)](mailto:management@timonso.de)
-[![Website](https://img.shields.io/badge/timonso.de-09090B?style=flat-square&logo=googlechrome&logoColor=white)](https://timonso.de)
-
 </div>
 
 ---
