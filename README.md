@@ -44,9 +44,8 @@ Developer from Germany, building Minecraft plugins for Paper and Velocity.
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Timonso-1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&icon_color=FAFAFA&border_color=27272A&border_radius=8" alt="GitHub Stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/wakatime?username=Timonso&layout=compact&langs_count=8&hide_border=false&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&border_color=27272A&border_radius=8" alt="WakaTime" />
-
+<img height="400" src="https://github-stats-extended.vercel.app/api?username=Timonso-1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&icon_color=FAFAFA&border_color=27272A&border_radius=8" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=Timonso-1&background=09090B&border=27272A&stroke=27272A&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=A1A1AA&dates=71717A&border_radius=8" alt="GitHub Streak" />
 
+<img height="400" src="https://github-stats-extended.vercel.app/api/wakatime?username=Timonso&layout=compact&langs_count=8&hide_border=false&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&border_color=27272A&border_radius=8" alt="WakaTime" />
 </div>
